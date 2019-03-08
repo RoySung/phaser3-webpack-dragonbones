@@ -1,4 +1,6 @@
-# Phaser 3 Webpack Project Template
+#This is a fork of the phaser3-project-template repository which shows a demo of how to use DragonBones with Phaser 3 while using Webpack and ES6.
+
+## Phaser 3 Webpack Project Template
 
 A Phaser 3 project template with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/)
 that includes hot-reloading for development and production-ready builds.
