@@ -1,4 +1,4 @@
-#This is a fork of the phaser3-project-template repository which shows a demo of how to use DragonBones with Phaser 3 while using Webpack and ES6.
+# This is a fork of the phaser3-project-template repository which shows a demo of how to use DragonBones with Phaser 3 while using Webpack and ES6.
 
 ## Phaser 3 Webpack Project Template
 
